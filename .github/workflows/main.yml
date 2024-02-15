@@ -23,7 +23,7 @@ jobs:
           application_name: docker-react
           environment_name: Dockerreact-env-1
           version_label: ${{ github.sha }}
-          existing_bucket_name: portfolio-lokesh-ap-south-1
+          existing_bucket_name: portfolio-lokesh
           region: ap-south-1
           deployment_package: deploy.zip
 
